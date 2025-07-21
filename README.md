@@ -1,5 +1,5 @@
 # hdritool
-Python script to merge bracketing sequences into 32bit HDR images. 
+Python script to merge bracketing sequences into 32bit HDR images. More information here: [HDRI Panorama Pipeline](https://andi-siess.de/hdri-panorama-pipeline/)
 
 ## how to use
 The script needs a path to a foulder containing all images and the amount of exposures per bracketing sequence (typically 3, 5, 7 or 9).
